@@ -1,0 +1,25 @@
+src/content/docs/cloudflare-one/cloud-and-saas-findings/casb-dlp.mdx
+  s_a650b63eeae059::t_348e67d7529fc9 8
+src/content/docs/cloudflare-one/cloud-and-saas-findings/custom-finding-types.mdx
+  s_a650b63eeae059::t_7da1432655a3f7 1-295
+src/content/docs/cloudflare-one/cloud-and-saas-findings/manage-findings.mdx
+  s_a650b63eeae059::t_a08daa7334a844 39-40
+src/content/docs/cloudflare-one/cloud-and-saas-findings/troubleshoot-casb.mdx
+  s_a650b63eeae059::t_1c13f9e18338a0 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "443879920f999ce6e8d8b0381f592803ff8e0b36",
+  "prompts": {},
+  "sessions": {
+    "s_a650b63eeae059": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb5bc496-87d8-4426-96e3-4e062b066a62",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Jose-Iciano <jiciano@cloudflare.com>"
+    }
+  }
+}
